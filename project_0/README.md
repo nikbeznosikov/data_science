@@ -2,18 +2,18 @@
 
 ## Table of Contents
 
-1. [Project Description](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#project-description)
-2. [What problem does it solve?](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#what-problem-does-it-solve)
-3. [Brief information about the data](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#brief-information-about-the-data)
-4. [Stages of work on the project](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#stages-of-work-on-the-project)
-5. [Results](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#results)
-6. [Conclusions](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#conclusions)
+1. [Project Description](#project-description)
+2. [What problem does it solve?](#what-problem-does-it-solve)
+3. [Brief information about the data](#brief-information-about-the-data)
+4. [Stages of work on the project](#stages-of-work-on-the-project)
+5. [Results](#results)
+6. [Conclusions](#conclusions)
 
 ### Project Description
 
 Guess the number guessed by the computer with the minimum number of attempts.
 
-:arrow_up: [to the table of contents](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#table-of-contents)
+:arrow_up: [to the table of contents](#table-of-contents)
 
 ### What problem does it solve?
 
@@ -52,4 +52,4 @@ The results show the average number of attempts each algorithm takes to guess th
 - The `game_core_v2` algorithm improves on `random_predict` by adjusting guesses based on feedback, reducing the number of attempts.
 - The `divide_predict` algorithm is the most efficient, using a binary search approach to minimize the number of attempts needed to guess the target number.
 
-:arrow_up: [to the table of contents](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#table-of-contents)
+:arrow_up: [to the table of contents](#table-of-contents)

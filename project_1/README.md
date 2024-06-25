@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-1. [Project Description](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#project-description)
-2. [What problem does it solve?](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#what-problem-does-it-solve)
-3. [Brief information about the data](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#brief-information-about-the-data)
-4. [Stages of work on the project](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#stages-of-work-on-the-project)
-5. [Results](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#results)
-6. [Conclusions](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#conclusions)
+1. [Project Description](#project-description)
+2. [What problem does it solve?](#what-problem-does-it-solve)
+3. [Brief information about the data](#brief-information-about-the-data)
+4. [Stages of work on the project](#stages-of-work-on-the-project)
+5. [Results](#results)
+6. [Conclusions](#conclusions)
 7. [Visualizations](#visualizations)
 
 ### Project Description
@@ -67,5 +67,13 @@ The project resulted in a clean dataset ready for further analysis or modeling. 
 ### Visualizations
 
 - [Age](visualizations/age.html)
+- [Experience](visualizations/experience.html)
+- [relocation_vs_salary](visualizations/relocation_vs_salary.html)
+- [salary_by_schedule](visualizations/salary_by_schedule.html)
+- [salary_to_city](visualizations/salary_to_city.html)
+- [salary_to_education_and_age](visualizations/salary_to_education_and_age.html)
+- [salary_to_education](visualizations/salary_to_education.html)
+- [salary_to_experience](visualizations/salary_to_experience.html)
+- [salary_to_sex](visualizations/salary_to_sex.html)
 
 :arrow_up: [to the table of contents](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#table-of-contents)
