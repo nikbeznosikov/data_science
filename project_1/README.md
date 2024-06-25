@@ -24,12 +24,14 @@ The project aims to clean and analyze resume data to extract meaningful insights
 1. Read and inspect the data.
 2. Transform key features such as education level and age.
 3. Clean the data by handling duplicates, missing values, and outliers.
+4. Visualize key data points to gain insights.
 
 **What do we practice?**
 
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Feature transformation and extraction
+- Data visualization
 
 ### Brief information about the data
 
@@ -45,15 +47,20 @@ The data consists of resumes from HeadHunter, with various features such as educ
    - Remove duplicate entries.
    - Handle missing values by filling or removing as appropriate.
    - Remove outliers based on salary and age.
+4. **Data Visualization**:
+   - Created histograms to visualize the distribution of ages and salaries.
+   - Built bar charts to show the frequency of different education levels.
+   - Used scatter plots to explore the relationship between experience and age.
 
 ### Results
 
-The project resulted in a clean dataset ready for further analysis or modeling. Key transformations and cleaning steps were performed to ensure data quality.
+The project resulted in a clean dataset ready for further analysis or modeling. Key transformations and cleaning steps were performed to ensure data quality. Visualizations provided insights into the data distribution and relationships between different features.
 
 ### Conclusions
 
 - Extracting structured information from complex text fields is crucial for analysis.
 - Proper handling of missing values and outliers can significantly improve data quality.
+- Visualizations help in understanding data distributions and relationships.
 - The cleaned and transformed dataset provides a solid foundation for more detailed analysis or machine learning tasks.
 
 :arrow_up: [to the table of contents](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#table-of-contents)
