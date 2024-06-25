@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-1. [Project Description](https://github.com/nikbeznosikov/sf_data_science/tree/main/project_1/README.md#project-description)
-2. [What problem does it solve?](https://github.com/nikbeznosikov/sf_data_science/tree/main/project_1/README.md#what-problem-does-it-solve)
-3. [Brief information about the data](https://github.com/nikbeznosikov/sf_data_science/tree/main/project_1/README.md#brief-information-about-the-data)
-4. [Stages of work on the project](https://github.com/nikbeznosikov/sf_data_science/tree/main/project_1/README.md#stages-of-work-on-the-project)
-5. [Results](https://github.com/nikbeznosikov/sf_data_science/tree/main/project_1/README.md#results)
-6. [Conclusions](https://github.com/nikbeznosikov/sf_data_science/tree/main/project_1/README.md#conclusions)
+1. [Project Description](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#project-description)
+2. [What problem does it solve?](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#what-problem-does-it-solve)
+3. [Brief information about the data](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#brief-information-about-the-data)
+4. [Stages of work on the project](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#stages-of-work-on-the-project)
+5. [Results](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#results)
+6. [Conclusions](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#conclusions)
 
 ### Project Description
 
@@ -56,4 +56,4 @@ The project resulted in a clean dataset ready for further analysis or modeling. 
 - Proper handling of missing values and outliers can significantly improve data quality.
 - The cleaned and transformed dataset provides a solid foundation for more detailed analysis or machine learning tasks.
 
-:arrow_up: [to the table of contents](https://github.com/nikbeznosikov/sf_data_science/tree/main/project_1/README.md#table-of-contents)
+:arrow_up: [to the table of contents](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#table-of-contents)
