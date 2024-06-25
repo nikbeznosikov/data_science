@@ -8,6 +8,7 @@
 4. [Stages of work on the project](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#stages-of-work-on-the-project)
 5. [Results](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#results)
 6. [Conclusions](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#conclusions)
+7. [Visualizations](#visualizations)
 
 ### Project Description
 
@@ -62,5 +63,9 @@ The project resulted in a clean dataset ready for further analysis or modeling. 
 - Proper handling of missing values and outliers can significantly improve data quality.
 - Visualizations help in understanding data distributions and relationships.
 - The cleaned and transformed dataset provides a solid foundation for more detailed analysis or machine learning tasks.
+
+### Visualizations
+
+- [Age](visualizations/age.html)
 
 :arrow_up: [to the table of contents](https://github.com/nikbeznosikov/data_science/tree/main/project_1/README.md#table-of-contents)
