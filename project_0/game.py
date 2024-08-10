@@ -1,18 +1,18 @@
 import numpy as np
 
-number = np.random.randint(1, 101) # загадываем число
+number = np.random.randint(1, 101)  # guessing the number
 count = 0
 
 while True:
     count += 1
-    predict_number = int(input("Угадай число от 1 до 100"))
+    predict_number = int(input("Guess the number from 1 to 100"))
 
     if predict_number > number:
-        print("Число должно быть меньше!")
+        print("The number should be smaller!")
 
     elif predict_number < number:
-        print("Число должно быть больше!")
+        print("The number should be bigger!")
 
     else:
-        print(f"Вы угадали число! Это число = {number}, за {count} попыток")
-        break # конец игры, выход из цикла
+        print(f"You guessed the number! This number is {number}, in {count} attempts")
+        break  # end of the game, exit the loop
