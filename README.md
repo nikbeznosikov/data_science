@@ -11,3 +11,5 @@ From SkillFactory
 [2. Analysis of Vacancies from HeadHunter](https://github.com/nikbeznosikov/data_science/tree/main/project_2)
 
 [3. Data Analysis and Modeling for Booking Reviews](https://github.com/nikbeznosikov/data_science/tree/main/project_3)
+
+[4. Data Analysis and Modeling for Bank Deposits](https://github.com/nikbeznosikov/data_science/tree/main/project_4)
